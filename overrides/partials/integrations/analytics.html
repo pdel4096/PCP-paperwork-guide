@@ -1,0 +1,18 @@
+{#
+  Cloudflare Web Analytics.
+
+  To enable:
+    1. Sign in to https://dash.cloudflare.com and open "Analytics & Logs"
+       -> "Web Analytics".
+    2. Add a site and paste the generated token as the value of
+       CLOUDFLARE_TOKEN below, between the quotes.
+    3. Commit and push. That's it — no other config change.
+
+  Until you paste a real token, the {% if %} block below stays false and
+  no beacon is loaded. The site works normally with no analytics.
+#}
+{% set CLOUDFLARE_TOKEN = "" %}
+{% if CLOUDFLARE_TOKEN %}
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon='{"token": "{{ CLOUDFLARE_TOKEN }}"}'></script>
+{% endif %}

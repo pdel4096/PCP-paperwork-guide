@@ -1,0 +1,101 @@
+site_name: Paperwork & forms
+site_description: A guide for family medicine on handling work-related patient paperwork
+site_author: Paul Delaney, MD
+
+# The site_url stays as the free .pages.dev URL until a custom domain is in place.
+# When you buy a domain, change this to https://your-domain.example and redeploy.
+site_url: https://pcp-paperwork-guide.pages.dev/
+
+repo_url: https://github.com/pdel4096/PCP-paperwork-guide
+repo_name: GitHub
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Source Sans Pro
+    code: JetBrains Mono
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      permalink_title: Link to this section
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.smartsymbols
+  - pymdownx.tilde
+  - pymdownx.mark
+
+plugins:
+  - search
+
+extra:
+  generator: false
+
+# Cloudflare Web Analytics is added via the overrides/ folder — see
+# overrides/partials/integrations/analytics.html.  To enable it, follow the
+# instructions in that file (paste your token, one line).
+
+copyright: >
+  &copy; 2026 Paul Delaney, MD.
+  Practical guidance, not legal advice.
+  Views are the author's and do not represent his employer.
+
+nav:
+  - Getting started:
+      - Introduction: index.md
+      - General tips: getting-started/general-tips.md
+  - Leave & disability:
+      - FMLA: leave-disability/fmla.md
+      - Short-term disability: leave-disability/short-term-disability.md
+      - Time off for work-related stress: leave-disability/work-stress.md
+      - Social Security disability: leave-disability/social-security.md
+      - Workers' compensation: leave-disability/workers-comp.md
+  - Accommodations:
+      - Workplace accommodations: accommodations/workplace.md
+      - Service and support animals: accommodations/animals.md
+      - School, camp, and college forms: accommodations/school.md
+  - Exams, licenses & obligations:
+      - DOT physicals and certification exams: exams/dot-physicals.md
+      - Driving, the DMV, and placards: exams/dmv.md
+      - Death certificates: exams/death-certificates.md
+      - Jury duty excuses: exams/jury-duty.md
+  - Tools & reference:
+      - Using CoPilot to do your dirty work: tools/copilot.md
+      - A closing thought: tools/closing-thought.md
