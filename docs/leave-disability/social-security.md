@@ -31,6 +31,6 @@ Third, if they are awarded benefits, get a copy of the award letter scanned into
 
 Fourth, about 65% applications for permanent disability based on medical reasons are denied on the first attempt. Of those initially denied 52% are later overturned with the help of an attorney. See below:
 
-![Sankey diagram: outcomes of 1,000 Social Security disability claims](/assets/ssdi_claim_outcomes.png)
+![Sankey diagram: outcomes of 1,000 Social Security disability claims](../../assets/ssdi_claim_outcomes.png)
 
 The times frame for approval can be six months if all goes well, or more than two years if appeals are required. Again, the insurance coverage (Medicare) won’t start for two more years.
