@@ -14,7 +14,7 @@ title: "General tips"
 
 - **Never volunteer family history on an employment-related form.** Federal law bars employers from acquiring genetic information, which includes family medical history. Well-drafted forms carry a warning telling you not to provide it. Poorly drafted ones don’t. Leave it out either way.
 
-- **Put Epic to work for you.** Need a detailed medication list written in a half-inch space? “See attached.”
+- **Put you EHR to work for you.** Need a detailed medication list written in a half-inch space? “See attached.”
 
 - **If you’re asked for a letter rather than a form, start with a draft from a HIPAA-appropriate AI tool** — Our only corporate-authorized LLM is CoPilot. You can exports records from Epic, upload to CoPilot, and prompt it with the information requested. This saves a lot of time; I’m a slow writer. Use only tools your organization has approved for PHI, and read every line before you sign it. You own what’s over your signature.
 
