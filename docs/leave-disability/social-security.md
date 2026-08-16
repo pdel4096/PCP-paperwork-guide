@@ -1,5 +1,5 @@
 ---
-title: "Social Security disability"
+title: "Permanenet (Social Security) disability"
 ---
 
 # Social Security disability
