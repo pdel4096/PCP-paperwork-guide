@@ -8,7 +8,7 @@ The Family and Medical Leave Act (FMLA) guarantees eligible employees up to twel
 
 The job protection is real but limited: on return, the employee is entitled to the same position **or an equivalent one** — virtually identical in pay, benefits, duties, status, and shift, at the same or a nearby worksite (29 CFR 825.214–.215). “Equivalent” is not “identical,” and there is a narrow exception for “key employees” in the highest-paid 10% within 75 miles. So the honest answer to “will I get my job back?” is “the same job or one very much like it, unless your employer can show you’d have been laid off anyway.”
 
-If someone is requesting FMLA, they are only getting job protection. No money. It’s generally a safe bet they’re not malingering.
+If someone is requesting FMLA, they are only getting job protection. They are not getting paid. It’s generally a safe bet they’re not malingering.
 
 The certification questions are standardized. Employers may not require more information than the certification permits. The Department of Labor (DOL)publishes standardized forms (https://www.dol.gov/agencies/whd/fmla/forms), though most large corporations prefer their own version. I stick with the DOL form: I’m very familiar with it, a fillable PDF, and it’s ready to go when the patient has forgotten their HR paperwork or has it only on their phone. Bonus points if you pre-fill your name and contact information.
 

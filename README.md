@@ -47,3 +47,5 @@ Cloudflare Web Analytics is wired in but disabled by default. To turn
 it on, follow the comment inside
 `overrides/partials/integrations/analytics.html` — paste your
 Cloudflare token, commit, done.
+
+Local editing set up on Mac Mini, August 2026.
