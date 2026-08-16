@@ -1,0 +1,25 @@
+.md-nav--primary .md-nav__title {
+  font-weight: 600;
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color);
+  padding-top: 0.6rem;
+  padding-bottom: 0.2rem;
+}
+
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: 600;
+  margin-top: 0.6rem;
+}
+
+.md-nav__item .md-nav__link--active {
+  font-weight: 600;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    width: 15rem;
+  }
+  .md-content {
+    max-width: none;
+  }
+}
