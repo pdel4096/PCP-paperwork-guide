@@ -2,8 +2,6 @@ site_name: Paperwork & forms
 site_description: A guide for family medicine on handling work-related patient paperwork
 site_author: Paul Delaney, MD
 
-# The site_url stays as the free .pages.dev URL until a custom domain is in place.
-# When you buy a domain, change this to https://your-domain.example and redeploy.
 site_url: https://pcp-paperwork-guide.pages.dev/
 
 repo_url: https://github.com/pdel4096/PCP-paperwork-guide
@@ -15,9 +13,8 @@ theme:
   custom_dir: overrides
   language: en
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - navigation.instant
     - navigation.tracking
@@ -65,12 +62,11 @@ markdown_extensions:
 plugins:
   - search
 
+extra_css:
+  - stylesheets/extra.css
+
 extra:
   generator: false
-
-# Cloudflare Web Analytics is added via the overrides/ folder — see
-# overrides/partials/integrations/analytics.html.  To enable it, follow the
-# instructions in that file (paste your token, one line).
 
 copyright: >
   &copy; 2026 Paul Delaney, MD.
