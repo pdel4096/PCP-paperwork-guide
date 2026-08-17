@@ -4,7 +4,7 @@ title: "Death certificates"
 
 # Death certificates
 
-At some point, you will get formal instruction on this. Do the best you can, and don’t worry about making mistakes. From the North Carolina Medical Board’s Forum newsletter (March 2023):
+At some point, you will get formal instruction on this. Do the best you can, and don’t worry about making mistakes. From the [North Carolina Medical Board’s Forum newsletter](https://www.ncmedboard.org/resources-information/article-print/lessons-from-the-ncmb-disciplinary-committee-obligation-to-sign-death-certificates) (March 2023):
 
 > ***There is no penalty for “getting it wrong”.** In the rare circumstance that a family arranges to have their loved one privately autopsied after the death is certified, and the cause of death is determined to be something other than what the certifying clinician listed on the death certificate, the clinician cannot be disciplined by the medical board or be held civilly liable.*
 
