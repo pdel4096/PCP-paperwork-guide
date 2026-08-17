@@ -10,7 +10,7 @@ The job protection is real but limited: on return, the employee is entitled to t
 
 If someone is requesting FMLA, they are only getting job protection. They are not getting paid. It’s generally a safe bet they’re not malingering.
 
-The certification questions are standardized. Employers may not require more information than the certification permits. The Department of Labor (DOL)publishes standardized forms ([https://www.dol.gov/agencies/whd/fmla/forms](https://www.dol.gov/agencies/whd/fmla/forms)), though most large corporations prefer their own version. I stick with the DOL form: I’m very familiar with it, a fillable PDF, and it’s ready to go when the patient has forgotten their HR paperwork or has it only on their phone. Bonus points if you pre-fill your name and contact information.
+The certification questions are standardized. Employers may not require more information than the certification permits. The Department of Labor (DOL)publishes standardized forms ([https://www.dol.gov/agencies/whd/fmla/forms](https://www.dol.gov/agencies/whd/fmla/forms)), though most large corporations prefer their own version. I stick with the DOL form: I’m very familiar with it, it's a fillable PDF, and it’s ready to go when the patient has forgotten their HR paperwork or has it only on their phone. Bonus points if you pre-fill your name and contact information.
 
 Some quick tips:
 
