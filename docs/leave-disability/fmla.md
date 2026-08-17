@@ -18,11 +18,11 @@ Some quick tips:
 
 - **“Serious health condition” is a defined term, and it is narrower than the folklore.** It means inpatient care, or continuing treatment by a provider, which in practice means one of:
 
-  - incapacity of **more than three consecutive full calendar days** plus either two in-person visits within 30 days (the first within 7 days of onset) or one visit plus a regimen of continuing treatment such as prescription medication;
-  - pregnancy or prenatal care;
-  - a **chronic condition** requiring periodic visits (at least twice a year), continuing over an extended period, and causing episodic incapacity — asthma, diabetes, migraine, epilepsy;
-  - a permanent or long-term condition for which treatment may not be effective; or
-  - a condition requiring multiple treatments, such as chemotherapy, dialysis, or physical therapy.
+    - incapacity of **more than three consecutive full calendar days** plus either two in-person visits within 30 days (the first within 7 days of onset) or one visit plus a regimen of continuing treatment such as prescription medication;
+    - pregnancy or prenatal care;
+    - a **chronic condition** requiring periodic visits (at least twice a year), continuing over an extended period, and causing episodic incapacity — asthma, diabetes, migraine, epilepsy;
+    - a permanent or long-term condition for which treatment may not be effective; or
+    - a condition requiring multiple treatments, such as chemotherapy, dialysis, or physical therapy.
 
 <!-- -->
 
