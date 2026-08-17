@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 ---
-
+![A family physician working through a stack of patient paperwork](assets/intro-paperwork.jpg)
 # Introduction
 
 Like most of you, I spend more than a few hours a week on Family Medical Leave Act (FMLA) paperwork, disability paperwork, doctor’s notes for accommodations, and the rest. The bane of primary care. A huge chunk of my time that residency did not prepare me for at all. I’ve been stumbling through the process for decades now, and have never come across a formal educational resource to help.
