@@ -36,4 +36,6 @@ It’s the one your patients may not know has changed on May 22, 2026.
 
 Note what the letter does not contain: a diagnosis, a medication list, or comments about what the landlord must do. What counts as “reasonable” is open to interpretation, and that interpretation belongs to the landlord, your patient, and the lawyers.
 
+Again, landlords have a lot more leeway in rejecting the idea of ESAs, but it will take a while for this change to become widely known. In the meantime, it's quicker to write an letter than it is to argue why it's probably worth nothing.
+
 **Air travel is a third set of rules, and the answer is no.** Since the Department of Transportation’s rule took effect in January 2021, airlines are not required to accommodate emotional support animals at all. Only trained service dogs qualify, and the passenger submits a Department of Transportation (DOT) attestation form rather than a doctor’s letter. Patients still ask; the letter you write won’t help them.
