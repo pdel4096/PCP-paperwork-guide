@@ -33,7 +33,7 @@ Some quick tips:
 
 <!-- -->
 
-- **FMLA to care for a family member is limited to a spouse, son, daughter, or parent** (and *in loco parentis* relationships). Not in-laws, not siblings, not grandparents. The certification is completed by the **sick person’s** doctor, not by the doctor of the family member who needs the time off — and the person taking leave still has to be FMLA-eligible themselves. There are separate, longer provisions for military caregiver leave (up to 26 weeks) and qualifying exigency leave. 
+- **FMLA to care for a family member is limited to a spouse, son, daughter, or parent** (and *in loco parentis* relationships). Not in-laws, not siblings, not grandparents. The certification is completed by the **sick person’s** doctor, not by the doctor of the family member who needs the time off — and the person taking leave still has to be FMLA-eligible themselves. There are separate, longer provisions for military caregiver leave (up to 26 weeks) and qualifying exigency leave.
 
 - **Overestimate the time off and the flare frequency when the course is uncertain**, and be generous with intermittent leave. Estimates can be revised. Underestimating is a bureaucratic nightmare of recurrent forms. There’s a mechanical reason this works: if the certification states a minimum duration of more than 30 days, the employer must wait out that duration before asking for recertification, and in general can only recertify every six months in connection with an absence.
 
