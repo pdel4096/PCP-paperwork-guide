@@ -9,7 +9,7 @@ title: "FMLA"
 
 The Family and Medical Leave Act (FMLA) guarantees eligible employees up to twelve workweeks of job-protected leave in a twelve-month period for a serious health condition. Review the FAQs (https://www.dol.gov/agencies/whd/fmla/faq). Employers are not required to pay salary during the leave (and generally don’t), though they must maintain group health benefits, and the employee may be required to use accrued paid leave concurrently.
 
-The job protection is real but limited: on return, the employee is entitled to the same position **or an equivalent one** — virtually identical in pay, benefits, duties, status, and shift, at the same or a nearby worksite (29 CFR 825.214–.215). “Equivalent” is not “identical,” and there is a narrow exception for “key employees” in the highest-paid 10% within 75 miles. So the honest answer to “will I get my job back?” is “the same job or one very much like it, unless your employer can show you’d have been laid off anyway.”
+The job protection is real but limited: on return, the employee is entitled to the same position **or an equivalent one** — virtually identical in pay, benefits, duties, status, and shift, at the same or a nearby worksite (29 CFR 825.214–.215). “Equivalent” is not “identical,” and there is a narrow exception for “key employees” in the highest-paid 10% within 75 miles. So the honest answer to “will I get my job back?” is “the same job or one very much like it, unless your employer can show you’d have been laid off anyway. 
 
 If someone is requesting FMLA, they are only getting job protection. They are not getting paid. It’s generally a safe bet they’re not malingering.
 
