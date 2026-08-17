@@ -38,6 +38,7 @@ Some quick tips:
 
 - **Standing FMLA is not unusual.** I have a few patients who come in every six months for migraine-related FMLA. I save a copy of their last certification with the dates blank, so I update and sign. We otherwise just have a nice chat.
 
-- **Employer can’t require you use their own FMLA form.** From the DOL website above: “Employers must accept a complete and sufficient certification, regardless of the format. The employer cannot reject a certification that contains all the information needed to determine if the leave is FMLA-qualifying. The employer cannot refuse: 1) A fax or copy of the certification; 2) A certification that is not completed on the employer’s standard company form; or 3) Any other record of the medical documentation, such as a communication on the letterhead of the healthcare provider.”
+- **Employer can’t require you use their own FMLA form.** From the DOL website above:
+> “Employers must accept a complete and sufficient certification, regardless of the format. The employer cannot reject a certification that contains all the information needed to determine if the leave is FMLA-qualifying. The employer cannot refuse: 1) A fax or copy of the certification; 2) A certification that is not completed on the employer’s standard company form; or 3) Any other record of the medical documentation, such as a communication on the letterhead of the healthcare provider.”
 
 FMLA related to “I need a mental health day” is addressed below.
