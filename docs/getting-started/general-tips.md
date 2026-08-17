@@ -16,7 +16,7 @@ title: "General tips"
 
 - **Put you EHR to work for you.** Need a detailed medication list written in a half-inch space? “See attached.”
 
-- **If you’re asked for a letter rather than a form, start with a draft from a HIPAA-appropriate AI tool** — Our only corporate-authorized LLM is CoPilot. You can exports records from Epic, upload to CoPilot, and prompt it with the information requested. This saves a lot of time; I’m a slow writer. Use only tools your organization has approved for PHI, and read every line before you sign it. You own what’s over your signature.
+- **If you’re asked for a letter rather than a form, start with a draft from a HIPAA-appropriate AI tool** — Our only corporate-authorized LLM is CoPilot. You can exports records from Epic, upload to CoPilot, and prompt it with the information requested. This saves a lot of time; I’m a slow writer. Use only tools your organization has approved for protected health information (PHI), and read every line before you sign it. You own what’s over your signature.
 
 - **You can’t send forms or letters to a third party without a signed release.** You can always hand the completed form to the patient, or send it through the portal, and let them do what they need with it. If they want you to send it, have them date the release to cover at least the next year so they aren’t signing a new one every time. You must use our corporate release form; the patient may provide one with the form, but we can’t use it. (A few disclosures don’t need a release — workers’ compensation in most circumstances, and anything required by law — but “when in doubt, get the release” has never gotten me in trouble.)
 
