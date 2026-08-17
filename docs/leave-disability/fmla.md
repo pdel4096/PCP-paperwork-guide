@@ -1,7 +1,7 @@
 ---
 title: "FMLA"
 ---
-![Signing the Family Medical Leave Act](../assets/fmla-picture.jpg)
+![Signing the Family Medical Leave Act](../assets/FMLA-picture.jpg)
 # FMLA
 
 The Family and Medical Leave Act (FMLA) guarantees eligible employees up to twelve workweeks of job-protected leave in a twelve-month period for a serious health condition. Review the FAQs (https://www.dol.gov/agencies/whd/fmla/faq). Employers are not required to pay salary during the leave (and generally don’t), though they must maintain group health benefits, and the employee may be required to use accrued paid leave concurrently.
