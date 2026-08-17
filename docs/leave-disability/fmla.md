@@ -1,6 +1,7 @@
 ---
 title: "FMLA"
 ---
+*President BIll Clinton, Signing the Family Medical Leave Act in 1993*
 ![Signing the Family Medical Leave Act](../assets/FMLA-picture.jpg)
 # FMLA
 
