@@ -2,6 +2,8 @@
 title: "Service and support animals"
 ---
 
+![Service Dog](../assets/service-dog.png)
+
 # Service and support animals
 
 Once people learn about the idea of a “emotional support animal” (ESA) they all want a doctor’s note. Dogs in dorms. Emotional support geckos. What you need is the terminology — and an awareness that the housing rules changed dramatically in 2025–2026.
