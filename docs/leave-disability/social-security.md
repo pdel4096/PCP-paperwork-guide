@@ -1,7 +1,7 @@
 ---
 title: "Permanenet (Social Security) disability"
 ---
-
+![Disability](../assets/disability.jpg)
 # Social Security disability
 
 You don’t get to decide whether Social Security should award benefits, and no one will ask you to. That determination is made by the state Disability Determination Services, using your records as evidence, with their own medical consultants and, if needed, a consultative examination by an independent physician. Your patient may ask you to “vouch” for them; the honest answer is that your opinion is not the deciding factor.
