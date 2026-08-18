@@ -1,7 +1,7 @@
 ---
 title: "Jury duty excuses"
 ---
-
+![Jurors in jury box](../assets/jurors.jpg)
 # Jury duty excuses
 
 For some reason, many people don’t want to do jury duty. It’s tedious and requires paying attention for a couple of hours at a stretch, possibly several days running. In practice a large panel is summoned for a twelve-member jury, and most people who aren’t seated go home after a few hours.
