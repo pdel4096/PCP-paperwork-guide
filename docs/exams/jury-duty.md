@@ -14,7 +14,7 @@ Anything that might interfere with attention is a valid basis, including medicat
 
 > *To whom it may concern,*
 >
-> *I am the primary care physician for Mr. John Jones who has been a patient at our medical office for quite some time. I am well-versed in @HIS@ various medical issues. Mr. Jones has recently been summoned for jury duty.*
+> *I am the primary care physician for Mr. John Jones who has been a patient at our medical office for quite some time. I am well-versed in his various medical issues. Mr. Jones has recently been summoned for jury duty.*
 >
 > *Serving on a jury is fundamental to our democracy, and those who are capable of serving should do so, and as such I write this letter only after thoughtful consideration of Mr. Jones’ health status.*
 >
