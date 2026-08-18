@@ -1,7 +1,7 @@
 ---
 title: "Driving, the DMV, and placards"
 ---
-
+![Handicap Photo](../assets/handicap.jpg)
 # Driving, the DMV, and placards
 
 **Fitness to drive.** North Carolina has no statute requiring physicians to report unsafe drivers, but it does allow it: physicians, family members, law enforcement, and license examiners may all request a re-examination through the [NCDMV Medical Review Program](https://www.ncdot.gov/dmv/license-id/license-suspension/medical-review-program/Pages/default.aspx). Requests must be in writing and **cannot be anonymous** — the patient will find out it was you, so have the conversation first. Once a driver is in the program, DMV mails a packet; the physician’s portion is the [DL-78](https://www.ncdot.gov/dmv/downloads/Documents/DL-78.pdf). The decision belongs to DMV’s Medical Review Unit, not to you, and there’s an appeal process. Whatever you decide, document the counseling — “advised not to drive; patient verbalized understanding; daughter present” — because that note is the one that matters if there’s a crash.
