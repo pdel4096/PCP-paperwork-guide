@@ -1,7 +1,7 @@
 ---
 title: "DOT physicals and certification exams"
 ---
-
+![Truck Driver](../assets/truckdriver.jpg)
 # DOT physicals and certification exams
 
 Only Certified Medical Examiners (CME) listed on the FMCSA National Registry can perform DOT physicals. It isn’t a courtesy you can extend to a patient with a CDL: an exam by a non-certified examiner produces an invalid certificate, which puts the driver’s livelihood at risk. Certification requires training and an exam, and it’s a reasonable thing to pursue if you have a lot of commercial drivers in your panel.
