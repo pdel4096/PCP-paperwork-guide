@@ -4,7 +4,9 @@ title: "Using CoPilot to do your dirty work"
 
 # Using CoPilot to do your dirty work
 
-Here are one-the-ground simple steps to consider when using Epic Hyperspce:
+You can use CoPilot LLM to help with your dirty work. The hidden wrinkle here is that even though you are permitted to upload patient medical records into CoPilot, you are supposed to "minimize patient data to the minimally necessary amount to generate the desired solution".
+
+Here are on-the-ground simple steps to consider when using Epic Hyperspace:
 
 1.  In the patient’s chart, navigate to the Chart Review section
 
@@ -17,3 +19,5 @@ Here are one-the-ground simple steps to consider when using Epic Hyperspce:
 5.  Upload all to Copilot as attachments
 
 6.  Then just ask Copilot to “Fill out the attached form based on information in the attached medical records which include notes, labs and imaging reports.”
+
+CoPilot will give you answers, and you'll still have to check them answers thoroughly then write them or cut-and-paste them onto the form.
