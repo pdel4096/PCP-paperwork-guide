@@ -16,7 +16,7 @@ The framing that helps: short-term disability is a private insurance contract or
 
 <!-- -->
 
-> *Dear Mega-Corporation: on your form, you request detailed information regarding residual functional capacity. Proper assessment, known as a Functional Capacity Evaluation, would take a physical therapist with the training, space, and equipment about three hours to complete — none of which I have. Any answers on my part would be guesswork. Below is a list of medical practices in my area that do provide functional capacity evaluations, should you wish to send the patient there.*
+> *Dear Mega-Corporation: on your form, you request detailed information regarding residual functional capacity. Proper assessment, known as a Functional Capacity Evaluation, would take a physical therapist with the training, space, and equipment about three hours to complete — none of which I have. Any answers on my part would be guesswork. I would be happy to arrange a referral to a medical practice in my area that do provide functional capacity evaluations, should you wish proper testing be completed.*
 
 <!-- -->
 
