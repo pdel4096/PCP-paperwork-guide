@@ -20,4 +20,4 @@ Second, if the injury is work-related and there’s already an open claim but co
 
 Things can get complicated when someone with pre-existing back problems hurts his back at work. Here, too, your job is only to provide records, not decide how much is work-related versus chronic.
 
-So if you notice someone on your schedule “worker’s comp”, it’s best they be called beforehand and explain that for this particular issue, you are not the treating physician.
+So if you notice someone on your schedule “worker’s comp”, it’s best they be called beforehand and explain that for this particular issue, you are not the treating physician. Many practices put this as an announcement for patients to hear while on hold.
