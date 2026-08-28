@@ -15,7 +15,7 @@ In a rural setting, you may be asked to provide worker's comp services, but you 
 A couple of scenarios to be prepared for. First, a patient comes to you after a work-related injury. He did not tell his boss or supervisor at the time. You treatment is unchanged, but be careful to:
 
 - Document as you normally would, and explicitly state that the injury occurred while at work
-- Strongly advise your patient to pursue all further care for this problem via the Workman's Comp (which should cost him nothing)
+- Strongly advise your patient to pursue all further care for this problem via the Worker's Comp through his employer (which should cost him nothing)
 
 Second, if the injury is work-related and there’s already an open claim but comes to you to get a second opinion, the treating physician of record owns the work notes. I document the visit, treat anything urgent, tell the patient plainly that I am not the authorized treating physician, and send them back to their Human Resources Department. I'll give them a work note but also discourage them from using it. If they’ve been denied care and are stuck, the referral is to the North Carolina Industrial Commission ([https://www.ic.nc.gov/](https://www.ic.nc.gov/)) or a workers’ comp attorney, not lobbying from you.
 
