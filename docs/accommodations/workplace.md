@@ -6,9 +6,11 @@ title: "Workplace accommodations"
 
 Jeff Bezos loves these. Hurt your back bending and twisting at the warehouse? Well, we can move you elsewhere in the warehouse, but you’ll have to get your doctor’s permission. What a waste of time and money for everyone.
 
-In these cases, I just ask the patient what accommodation they think would help them work. They usually have something in mind, and it’s rarely controversial. Your job is to (1) say “sure”; (2) tell the patient the risks of not following corporate policy — steel-toed boots are required for a reason; and (3) write a nondescript letter restating the employee’s request, confirming they’d benefit from an accommodation. Since you don’t work there, you can’t decide whether an accommodation is “reasonable.” That word has a lot of wiggle room, and it’s up to the employer. If the request is denied, it’s up to the employer, the patient, and their lawyers to sort out. Your job is done.
+Your job here is to **describe limitations only**, and your patient will help you out with this — they know what they can't do. You may suggest accommodations, but that is **not required** of you, nor is the reason the accommodation is needed (i.e., no diagnoses).
 
-Sometimes, the patient can not think of a reasonable accommodation. In these cases your job is to document your patient’s functional limitations. It’s the employer’s job how to accommodate those limitations. The employer may then come up with a plan, and then request your blessing.
+In these cases, I just ask the patient what accommodation they think would help them work. They usually have something in mind, and more often than the the employer does too. It’s rarely controversial. Your job is to (1) say “sure”; (2) tell the patient the risks of not following corporate policy — steel-toed boots are required for a reason; and (3) write a nondescript letter restating the employee’s request, confirming they’d benefit from an accommodation. You don’t decide whether an accommodation is “reasonable.” That word has a lot of wiggle room, and it’s up to the employer. If the request is denied, it’s up to the employer, the patient, and their lawyers to sort out. Your job is done.
+
+Sometimes, the patient can not think of a reasonable accommodation. In these cases your job is to document your patient’s functional limitations. It’s the employer’s job to figure out how to accommodate those limitations. The employer may then come up with a plan, and then request your blessing.
 
 A few points of law worth knowing:
 
