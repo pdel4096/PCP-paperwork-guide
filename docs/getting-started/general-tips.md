@@ -26,4 +26,6 @@ title: "General tips"
 
 - **Know your practice’s policy on charging.** Form completion is generally not a covered service, and many practices charge a flat administrative fee. There is a CPT code for special reports (99080), but payers rarely pay it. Whatever your policy is, make sure the front desk states it up front, before the form lands on your desk.
 
+- **Sometimes, a patient will ask you to fib on a form, just a little bit**. And you might be tempted to do so. Saying something like, "we'll I'd like to help you but you are asking me to commit fraud. If I am going to lie **for** you, you could never be certain I'd lie to **you**."
+
 - **Set a turnaround expectation and put it in writing.** Though I have the patient in fornt of me, I can’t write a thoughtful three-page letter in the middle of a busy clinic day. I tell them to do this right, I’ll need five business days. Patients who know that stop calling on day two, and the ones with a real deadline tell you about it at the visit instead of afterward.
