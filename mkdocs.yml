@@ -21,7 +21,6 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-    - content.action.edit
     - content.code.copy
   palette:
     - media: "(prefers-color-scheme: light)"
