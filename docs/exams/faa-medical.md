@@ -33,14 +33,14 @@ My practice, and my recommendation:
 - **Do it as a real visit, not a hallway favor.** Schedule it. Do the whole checklist. Document that you did.
 - **Review the medication list line by line** and write down that you did. This is the single item most likely to matter later.
 - **Do not sign it for a patient you don't know.** If they are established with you, fine. If they walked in cold with a form, you have no history to be "aware" of, which is exactly the position you do not want to be in.
-- **Bill it as a non-covered service.** Like a commercial driver physical or a camp form, it is a regulatory exam, not a covered preventive visit.
+- **Bill it as a non-covered service.** Like a commercial driver physical or a camp form, it is a regulatory exam, not a covered preventive visit. USe an office visit code and ICD-10 code like "Encounter for Administrative Physical"
 - **Give the original back to the patient** and keep a copy in the chart. You are not their record-keeper for this.
 
 If you are not comfortable signing, don't. There is no obligation, and a pilot who wants a physician who knows aviation medicine can pay an AME to do the BasicMed exam instead.
 
 ### Conditions that require the FAA first
 
-BasicMed does not launder a disqualifying condition. A pilot with any of the following must first obtain a one-time special issuance from the FAA through an AME before they can ever use BasicMed:
+Some medical conditions **require** initial evaluation by the FAA through an AME before they can use BasicMed. These include:
 
 - **Mental health:** severe personality disorder with overt acts, psychosis, bipolar disorder, or substance dependence within the previous two years
 - **Neurologic:** epilepsy, disturbance of consciousness without satisfactory explanation, or transient loss of nervous system control without satisfactory explanation
@@ -48,11 +48,9 @@ BasicMed does not launder a disqualifying condition. A pilot with any of the fol
 
 If one of these turns up in your history-taking, stop and send them to an AME. Signing the checklist does not make the problem go away, and the pilot is the one who eats the consequences.
 
-## The part that matters more than the form: your prescription pad
+## The part that matters more than the form: the medication list
 
 Most of the harm a PCP does in aviation medicine has nothing to do with paperwork. It is writing a prescription that grounds someone, without either of you realizing it.
-
-**Ask every adult patient whether they fly.** It takes four seconds and it belongs in the same mental slot as "do you drive a truck for a living."
 
 The FAA maintains a [Do Not Issue / Do Not Fly list](https://www.faa.gov/ame_guide/media/DNI_DNF_tables.pdf) and a broader [pharmaceuticals section in the Guide for Aviation Medical Examiners](https://www.faa.gov/ame_guide/pharm). The headlines:
 
