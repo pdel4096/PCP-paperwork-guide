@@ -9,11 +9,11 @@ title: "FMLA"
 
 The Family and Medical Leave Act (FMLA) guarantees eligible employees up to twelve workweeks of job-protected leave in a twelve-month period for a serious health condition. Review the [official FAQs](https://www.dol.gov/agencies/whd/fmla/faq). Employers are not required to pay salary during the leave (and generally don’t), though they must maintain group health benefits, and the employee may be required to use accrued paid leave concurrently.
 
-The job protection is real but limited: on return, the employee is entitled to the same position **or an equivalent one** — virtually identical in pay, benefits, duties, status, and shift, at the same or a nearby worksite (29 CFR 825.214–.215). “Equivalent” is not “identical,” and there is a narrow exception for “key employees” in the highest-paid 10% within 75 miles. So the honest answer to “will I get my job back?” is “the same job or one very much like it, unless your employer can show you’d have been laid off anyway. 
-
 If someone is requesting FMLA, they are only getting job protection. They are not getting paid. It’s generally a safe bet they’re not malingering.
 
-The certification questions are standardized. Employers may not require more information than the certification permits. The Department of Labor (DOL) publishes [standardized forms](https://www.dol.gov/agencies/whd/fmla/forms)), though most large corporations prefer their own version (they can not require their use though; see below). I stick with the DOL form: I’m very familiar with it, it's a fillable PDF, and it’s ready to go when the patient has forgotten their HR paperwork or has it only on their phone. Bonus points if you pre-fill your name and contact information.
+The job protection is real but limited: on return, the employee is entitled to the same position **or an equivalent one** — virtually identical in pay, benefits, duties, status, and shift, at the same or a nearby worksite (29 CFR 825.214–.215). “Equivalent” is not “identical,” and there is a narrow exception for “key employees” in the highest-paid 10% within 75 miles. So the honest answer to “will I get my job back?” is “the same job or one very much like it, unless your employer can show you’d have been laid off anyway. 
+
+The certification questions are standardized, and employers may not require more information than the certification permits. The Department of Labor (DOL) publishes [standardized forms](https://www.dol.gov/agencies/whd/fmla/forms). Though most large corporations prefer their own version (they can not require their use though; see below). I stick with the DOL form: I’m very familiar with it, it's a fillable PDF, and it’s ready to go when the patient has forgotten their HR paperwork or has it only on their phone. Bonus points if you pre-fill your name and contact information.
 
 Some quick tips:
 
@@ -27,11 +27,7 @@ Some quick tips:
     - a permanent or long-term condition for which treatment may not be effective; or
     - a condition requiring multiple treatments, such as chemotherapy, dialysis, or physical therapy.
 
-<!-- -->
-
-- The regulation (29 CFR 825.113) specifically says that the common cold, the flu, earaches, upset stomach, minor ulcers, headaches other than migraine, and routine dental problems ordinarily do **not** qualify. Two visits for a cold is not enough; two visits a year for a chronic condition that flares is. Mental illness qualifies on the same terms as anything else.
-
-<!-- -->
+    The regulation ([29 CFR 825.113](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-C/part-825/subpart-A/section-825.113)) also specifically says what typically *does not qualify*: the common cold, the flu, earaches, upset stomach, minor ulcers, headaches other than migraine, and routine dental problems. Two visits for a cold is not enough; two visits a year for a chronic condition that flares is. Mental illness qualifies on the same terms as anything else.
 
 - **FMLA to care for a family member is limited to a spouse, son, daughter, or parent** (and *in loco parentis* relationships). Not in-laws, not siblings, not grandparents. The certification is completed by the **sick person’s** doctor, not by the doctor of the family member who needs the time off — and the person taking leave still has to be FMLA-eligible themselves. There are separate, longer provisions for military caregiver leave (up to 26 weeks) and qualifying exigency leave.
 
@@ -42,6 +38,7 @@ Some quick tips:
 - **Standing FMLA is not unusual.** I have a few patients who come in every six months for migraine-related FMLA. I save a copy of their last certification with the dates blank, so I update and sign. We otherwise just have a nice chat.
 
 - **Employer can’t require you use their own FMLA form.** From the DOL website above:
-> “Employers must accept a complete and sufficient certification, regardless of the format. The employer cannot reject a certification that contains all the information needed to determine if the leave is FMLA-qualifying. The employer cannot refuse: 1) A fax or copy of the certification; 2) A certification that is not completed on the employer’s standard company form; or 3) Any other record of the medical documentation, such as a communication on the letterhead of the healthcare provider.”
+
+  > “Employers must accept a complete and sufficient certification, regardless of the format. The employer cannot reject a certification that contains all the information needed to determine if the leave is FMLA-qualifying. The employer cannot refuse: 1) A fax or copy of the certification; 2) A certification that is not completed on the employer’s standard company form; or 3) Any other record of the medical documentation, such as a communication on the letterhead of the healthcare provider.”
 
 FMLA related to “I need a mental health day” is addressed below.
