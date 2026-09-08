@@ -1,6 +1,9 @@
 ---
 title: "FAA medical exams for pilots"
+
 ---
+
+![Pilot](../assets/pilot.jpg)
 
 # FAA medical exams for pilots
 

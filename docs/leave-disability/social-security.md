@@ -1,5 +1,5 @@
 ---
-title: "Permanenet (Social Security) disability"
+title: "Permanent (Social Security) disability"
 ---
 ![Disability](../assets/disability.jpg)
 # Social Security disability

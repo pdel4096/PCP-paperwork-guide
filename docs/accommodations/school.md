@@ -2,6 +2,8 @@
 title: "School, camp, and college forms"
 ---
 
+![Sports](../assets/sports.jpg)
+
 # School, camp, and college forms
 
 A large and predictable seasonal load, best handled at the well visit rather than in the inbox.

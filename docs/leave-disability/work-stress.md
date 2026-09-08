@@ -6,6 +6,8 @@ title: "Time off for work-related stress"
 
 This is not as unreasonable as it may sound, and is a common use for FMLA. But it’s not a vacation. The time has to be spent seeing a therapist or psychiatrist regularly, and starting appropriate treatment. You can’t guarantee your patient will be paid (with FMLA, they won't), and you can’t guarantee their employer will agree this as "reasonable", so there may be a conflict.
 
+Also, keep in mind that when someone comes to you seeking a break from work, that may be only one of many stressors in their life. They may choose to focus on work-related stress as something they can step away from, unlike other challenges such as parenting, financial struggles, or caring for elderly parents. So try to get the whole picture.
+
 It is *not* your job to investigate workplace conflicts, assign blame, or solve their problem. Your job is to:
 
 - obtain a complete psychiatric history, which is often missing in a patient's EHR (there's no special section for it)
@@ -17,7 +19,7 @@ It is *not* your job to investigate workplace conflicts, assign blame, or solve 
 
 Consider how the time will be be used productively. Set that expectation by having them set a goal to reduce stress before they see a mental health provider (i.e., get 8 hours of sleep, begin exercise every day, start to practice meditation, etc).
 
-Avoid intermittent FMLA as it sets up patients to call in sick and is often abused.
+Avoid intermittent FMLA if possible, as it really lowers the threshold for patients to call in sick, and is often abused.
 
 Regarding the paperwork, give them a note or completed FMLA forms to get them through their first behavioral health appointment (if that's the plan), and forward any further paperwork from the employer to that professional. (I’ve been burned when it turned out that an employer *required* the mental health professional to complete the paperwork — but only found out long after the fact.)
 

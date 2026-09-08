@@ -2,6 +2,8 @@
 title: "Death certificates"
 ---
 
+![Death](../assets/death.jpg)
+
 # Death certificates
 
 At some point, you will get formal instruction on this. Do the best you can, and don’t worry about making mistakes. From the [North Carolina Medical Board’s Forum newsletter](https://www.ncmedboard.org/resources-information/article-print/lessons-from-the-ncmb-disciplinary-committee-obligation-to-sign-death-certificates) (March 2023):

@@ -1,5 +1,6 @@
 ---
 title: "Workers’ compensation"
+![Workers Comp](../assets/workers.jpg)
 ---
 
 # Workers’ compensation
