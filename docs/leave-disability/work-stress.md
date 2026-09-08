@@ -15,7 +15,11 @@ It is *not* your job to investigate workplace conflicts, assign blame, or solve 
 - arrange a referral to an appropriate behavioral health professional, or note that they are already seeing one; and
 - ask if accommodations of some sort would help (eg part-time work for a while)
 
-Give them a note or completed FMLA forms to get them through their first behavioral health appointment (if that's the plan), and forward any further paperwork from the employer to that professional. (I’ve been burned when it turned out that an employer *required* the mental health professional to complete the paperwork — but only found out long after the fact.)
+Consider how the time will be be used productively. Set that expectation by having them set a goal to reduce stress before they see a mental health provider (i.e., get 8 hours of sleep, begin exercise every day, start to practice meditation, etc).
+
+Avoid intermittent FMLA as it sets up patients to call in sick and is often abused.
+
+Regarding the paperwork, give them a note or completed FMLA forms to get them through their first behavioral health appointment (if that's the plan), and forward any further paperwork from the employer to that professional. (I’ve been burned when it turned out that an employer *required* the mental health professional to complete the paperwork — but only found out long after the fact.)
 
 You should also point out that while you will do what you can, neither you, nor does any health care provider, have the ability to change someone's work environment. There's no pill for nasty coworkers or impossible expectations. Sometimes, the best therapy is leaving that particular job. I will broach that sometimes by asking if they have considered it, or is it even an option — but never suggest it.
 
