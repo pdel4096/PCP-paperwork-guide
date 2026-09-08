@@ -18,6 +18,8 @@ Note that **simply being 72 years of age or older is grounds for an excuse** fro
 
 Federal jury service is a separate system with [its own rules](https://www.ncmd.uscourts.gov/information-jurors); for the Middle District of North Carolina, age over 70 is among the grounds for an excuse request.
 
+### What to Write
+
 Anything that might interfere with attention is a valid basis, including medication side effects (it’s hard to be a good juror on furosemide when your attention is on your bladder). Your letter must state the medical reasons and whether the problem is *temporary* — and if so, for how long — or *permanent*. Any protected health information in the letter remains confidential.
 
 Here’s my template:

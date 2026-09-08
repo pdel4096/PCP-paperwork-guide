@@ -1,9 +1,11 @@
 ---
 title: "Workers’ compensation"
-![Workers Comp](../assets/workers.jpg)
+
 ---
 
-# Workers’ compensation
+![workers](../assets/workers.jpg)
+
+## Worker's Compensation
 
 This one deserves its own section because the instinct to help gets you in trouble. The short version: this is not your job.
 
