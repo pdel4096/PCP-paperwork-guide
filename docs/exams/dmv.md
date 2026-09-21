@@ -10,7 +10,7 @@ title: "Driving, the DMV, and placards"
 
 Fortunately, you are not the first to wrestle with this issue. This is a well-worn path, with plenty of guidelines and tools to help you. These types of visits really can not be done in a routine 20 minute visit.
 
-To start with, the American Academy of Neurology has guidelines: (Practice Parameter update: Evaluation and management of driving risk in dementia)[https://www.aan.com/globals/axon/assets/7091.pdf]. They recommend against using a simple Mini Mental Status Exam, and instead favor the (Clinical Dementia Rating (CDR) )[https://knightadrc.wustl.edu/app/uploads/2021/10/English-New-Zealand.pdf] scale. This is a ten-page form, most is filled out by someone close to the patient, and a few pages you fill out by quizzing your patient.
+To start with, the American Academy of Neurology has guidelines: [Practice Parameter update: Evaluation and management of driving risk in dementia](https://www.aan.com/globals/axon/assets/7091.pdf). They recommend against using a simple Mini Mental Status Exam, and instead favor the [Clinical Dementia Rating (CDR)]([https://knightadrc.wustl.edu/app/uploads/2021/10/English-New-Zealand.pdf) scale. This is a ten-page form, most is filled out by someone close to the patient, and a few pages you fill out by quizzing your patient.
 
 Scoring the CDR is not simple. There are six domains, rendering this into bite-sized pieces giving you six separate values raning 0 to 3. Then you have to calculate the global CDR score. This is where the [CDR® Global Score Calculator](https://www.naccdata.org/calculators/) comes in.
 
