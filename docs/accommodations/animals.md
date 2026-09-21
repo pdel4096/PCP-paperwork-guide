@@ -18,7 +18,7 @@ Serivce dogs are often use to see for the blind, to hear for the deaf, anticipat
 
 ## Assistance and emotional support animals: housing
 
-This is the request you’ll actually get frequently — a letter so a landlord till then be obliged to allow a dog in a “no pets” dwelling, or waive a pet fee and deposit. It falls under the Fair Housing Act, which covers rental houses, apartments, condos, and college dorms. It does not apply to hotels or other transient lodging, which are public accommodations under the ADA instead. Under the old FHA rules, an assistance animal need not be trained; the questions were whether the person has a disability and whether there is a disability-related need for the animal. That has been the framework for a decade, and it is the framework most of us learned.
+This is the request you’ll actually get frequently — a letter so a landlord will then be obliged to allow a dog in a “no pets” dwelling, or waive a pet fee and deposit. It falls under the Fair Housing Act (FHA), which covers rental houses, apartments, condos, and college dorms. It does not apply to hotels or other transient lodging, which are public accommodations under the ADA instead. Under the old FHA rules, an assistance animal need not be trained; the questions were whether the person has a disability and whether there is a disability-related need for the animal. That has been the framework for a decade, and it is the framework most of us learned.
 
 It’s the one your patients may not know changed on May 22, 2026.
 
@@ -30,11 +30,11 @@ It’s the one your patients may not know changed on May 22, 2026.
 
 NC state law regarding housing are essential the same as federal law, and the State does not have a specific laws or regulation on the book regarding animals in housing. Animals fall under the broader term "reasonable accommodation." NC does make it a Class 3 misdemeanor both to: 1) deny a service animal access or charge a fee for its use; *or* 2) disguise an animal as a service animal or a service animal in training — worth mentioning to the patient who wants a vest and a letter for a dog that isn’t trained to do anything. For housing, the State Fair Housing Act (G.S. Chapter 41A) is a separate state law with its own reasonable-accommodation duty and its own complaint route through the North Carolina Human Relations Commission. HUD’s 2026 memo does not change NC state law, so the state channel may prove more favorable to tenants than the federal one, at least until this settles. Patients with a real dispute should go to the [Fair Housing Project of Legal Aid of North Carolina](https://www.fairhousingnc.org/) rather than back to you for a longer letter.
 
-## Who Gets a Letter From You?
+## Who gets a letter from you?
 
 **Service Animal? No. **As you might have gleaned from the above, there is no documentation require for services animals. You should never be asked to write a letter proving that a patient's dog is a service animal.  If a patient insists on a letter anyway, ask for documentation from the trainer describing what the animal has been trained to do (loophole: owners can be their own trainers).
 
-**Emotional Support Animal? Maybe.** You will be asked to write letters, or fill out a form, for emotional support animals. The request should rest on an actual evaluation, not on a remark at the end of a visit for something else. Hint: it’s anxiety. It’s always anxiety. So take a real psychiatric history, document the symptoms in the patient’s own words, put the problem on the active problem list, and treat what you find. Then keep all of that out of the letter. If a lawyer ever needs the detail, they can request the office notes — in decades, none ever has requested from me. Be vague, like this:
+**Emotional Support Animal? Maybe.** You will be asked to write letters, or fill out a form, for emotional support animals. The request should rest on an actual evaluation, not on a remark at the end of a visit for something else. Hint: it’s anxiety. It’s *always* anxiety. So take a real psychiatric history, document the symptoms in the patient’s own words, put the problem on the active problem list, and treat what you find. Then keep all of that out of the letter. If a lawyer ever needs the detail, they can request the office notes — in decades, none ever has requested from me. Be vague, like this:
 
 > *Ms. Jones has been in the care of our medical practice for many years. I am familiar with her medical history and with the substantial functional limitations of her disability.*
 >
