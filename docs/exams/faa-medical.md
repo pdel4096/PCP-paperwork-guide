@@ -36,7 +36,7 @@ My practice, and my recommendation:
 - **Do it as a real visit, not a hallway favor.** Schedule it. Do the whole checklist. Document that you did.
 - **Review the medication list line by line** and write down that you did. This is the single item most likely to matter later.
 - **Do not sign it for a patient you don't know.** If they are established with you, fine. If they walked in cold with a form, you have no history to be "aware" of, which is exactly the position you do not want to be in.
-- **Bill it as a non-covered service.** Like a commercial driver physical or a camp form, it is a regulatory exam, not a covered preventive visit. USe an office visit code and ICD-10 code like "Encounter for Administrative Physical"
+- **Bill it as a non-covered service.** Like a commercial driver physical or a camp form, it is a regulatory exam, not a covered preventive visit. Use an office visit code and ICD-10 code like "Encounter for Administrative Physical"
 - **Give the original back to the patient** and keep a copy in the chart. You are not their record-keeper for this.
 
 If you are not comfortable signing, don't. There is no obligation, and a pilot who wants a physician who knows aviation medicine can pay an AME to do the BasicMed exam instead.
