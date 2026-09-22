@@ -3,8 +3,6 @@ title: "Short-term disability"
 
 ---
 
-![Disability](../assets/short-term.jpg)
-
 # Short-Term Disability
 
 These are a real pain. Unlike FMLA forms, they actually want concrete medical information. Only fill these out if you have the information you need. Also be prepared: they can be recurring, and you are asked to fill the same form out. Maybe even every two weeks.
